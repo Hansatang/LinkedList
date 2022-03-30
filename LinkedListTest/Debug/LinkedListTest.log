@@ -1,0 +1,3 @@
+﻿  LinkedList.c
+C:\Users\krzys\source\repos\List\List\LinkedList.c(29): warning C4716: 'destroy': must return a value
+  LinkedListTest.vcxproj -> C:\Users\krzys\source\repos\List\Debug\LinkedListTest.exe

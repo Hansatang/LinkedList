@@ -1,0 +1,5 @@
+﻿  LinkedList.c
+C:\Users\krzys\source\repos\List\List\LinkedList.c(78,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+C:\Users\krzys\source\repos\List\List\LinkedList.c(80,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+C:\Users\krzys\source\repos\List\List\LinkedList.c(85,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+  List.vcxproj -> C:\Users\krzys\source\repos\List\Debug\List.exe
