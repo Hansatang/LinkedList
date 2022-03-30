@@ -75,14 +75,12 @@ void* pull(LinkedList_t self) {
 	Node_t _checkedNode = self->root;
 	while (1)
 	{
-		printf("Pulled : %s\n", _checkedNode->item);
+		
 		if (_checkedNode->next->item != NULL) {
-			printf("Mike : %s\n", _checkedNode->item);
 			_checkedNode = _checkedNode->next;
 		}
 		else
 		{
-			printf("Yoink : %s\n", _checkedNode->item);
 			return _checkedNode->item;
 		}
 	};
